@@ -1,0 +1,12 @@
+{
+  "name": "Bible Event Timeline",
+  "slug": "bibletimeline",
+  "version": "1.0.1",
+  "download_url": "https://kingdomwebservices.com/kingdom-updates/bet/downloads/bibletimeline-1.0.1.zip",
+  "homepage": "https://kingdomwebservices.com",
+  "sections": {
+    "description": "<p>Interactive horizontal Bible timeline with verse pages.</p>",
+    "changelog": "<ul><li>Fix: Remote fallback images</li><li>Improvement: Verse link repair</li></ul>"
+  }
+}
+
