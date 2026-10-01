@@ -1,12 +1,12 @@
 {
   "name": "Bible Event Timeline",
   "slug": "bibletimeline",
-  "version": "1.0.1",
-  "download_url": "https://github.com/kingdom-update/bet/releases/download/1.1.0/bibletimeline-1.1.0.zip",
+  "version": "1.1.1",
+  "download_url": "https://github.com/kingdom-update/bet/releases/download/1.1.1/bibletimeline-1.1.1.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Interactive horizontal Bible timeline with verse pages.</p>",
-    "changelog": "<h4>1.1.0</h4><ul><li>Added timeline search with live event suggestions.</li><li>Added click-to-jump search results that slide directly to the selected timeline event.</li><li>Moved the search bar into the Old Testament and New Testament header area.</li><li>Improved main timeline card design, spacing, typography, and active states.</li><li>Improved verse page timeline card styling and layout.</li><li>Added left and right scroll arrows to the verse page timeline.</li><li>Added automatic centering of the matching event when opening a verse page.</li><li>Highlighted the related event on verse pages for better context.</li><li>Fixed verse page timeline cards stretching taller than needed.</li><li>Improved timeline navigation behavior on desktop and mobile.</li><li>Improved search clear button with SVG icon styling.</li><li>Cleaned up verse page timeline link markup to avoid unwanted paragraph and line break tags.</li><li>Improved overall timeline responsiveness and visual polish.</li></ul>"
+    "changelog": "<h4>1.1.1</h4><ul><li>Fixed Timeline Header Width to match timeline body</li></ul>"
   }
 }
 
