@@ -1,12 +1,12 @@
 {
   "name": "Bible Event Timeline",
   "slug": "bibletimeline",
-  "version": "1.1.1",
-  "download_url": "https://github.com/kingdom-update/bet/releases/download/1.1.1/bibletimeline-1.1.1.zip",
+  "version": "1.1.2",
+  "download_url": "https://github.com/kingdom-update/bet/releases/download/1.1.2/bibletimeline-1.1.2.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Interactive horizontal Bible timeline with verse pages.</p>",
-    "changelog": "<h4>1.1.1</h4><ul><li>Fixed Timeline Header Width to match timeline body</li></ul>"
+    "changelog": "<h4>1.1.2</h4><ul><li>Updated the update route to Kingdom Ministry Manager</li></ul>"
   }
 }
 
